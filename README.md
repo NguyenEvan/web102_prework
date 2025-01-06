@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1SwEEalsB39N7R1nRnTjwgV0Tc7KkQU_e/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://drive.google.com/file/d/1SwEEalsB39N7R1nRnTjwgV0Tc7KkQU_e/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough'>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Zoom  
